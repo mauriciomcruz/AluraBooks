@@ -11,7 +11,7 @@
     background-image: url(../img/MenuAberto.svg);
 }
 
-.container__botao:checked~.container__rotulo>.cabecalho__menu-hamburguer {
+.container__botao:checked~.container__rotulo {
     background: var(--azul-degrade);
 }
 
